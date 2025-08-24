@@ -1,0 +1,1 @@
+uv pip install "keras==3.3.3" "tensorflow==2.16.1" "numpy==1.26.4" h5py pillow opencv-python
